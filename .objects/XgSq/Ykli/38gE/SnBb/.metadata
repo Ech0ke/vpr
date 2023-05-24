@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SnBbB1kJTk-CsIa8MIcoAA",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/SnBbB1kJTk-CsIa8MIcoAA",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Turinys",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T14:31:00.0371827Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T14:31:19.347271Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

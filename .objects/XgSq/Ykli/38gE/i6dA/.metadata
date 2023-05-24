@@ -1,0 +1,16 @@
+﻿{
+  "Id": "i6dAWoXuCkK-uOLm9pGwkA",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/i6dAWoXuCkK-uOLm9pGwkA",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Pirmas puslapis",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T14:42:38.0211224Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T14:43:14.5108983Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

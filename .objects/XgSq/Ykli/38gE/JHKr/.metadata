@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JHKrOsRHM0qXC1QS15wEzA",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/JHKrOsRHM0qXC1QS15wEzA",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Nuorodos",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T14:29:43.2321863Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T14:30:14.8020318Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

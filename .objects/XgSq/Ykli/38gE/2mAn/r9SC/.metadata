@@ -1,0 +1,17 @@
+﻿{
+  "Id": "r9SCv0nMQkym43akH9hROQ",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/r9SCv0nMQkym43akH9hROQ",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/2mAnIEjX2ECJmBBD_BiZEg",
+  "Name": "Juodos šrifto spalvos pasirinkimas",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T13:33:14.9351157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:43:22.560422Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

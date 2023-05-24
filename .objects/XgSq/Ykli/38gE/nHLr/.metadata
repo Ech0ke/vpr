@@ -1,0 +1,13 @@
+﻿{
+  "Id": "nHLr0OJgYkiaZvk6LfhNnQ",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/nHLr0OJgYkiaZvk6LfhNnQ",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Įterpimas",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-05-24T13:12:54.282224Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:12:54.282224Z"
+}

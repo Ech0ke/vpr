@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2mAnIEjX2ECJmBBD_BiZEg",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/2mAnIEjX2ECJmBBD_BiZEg",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Spalva",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T13:32:40.3333971Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:32:59.7602368Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "a6_5QX14NUu7LSY71YhE3g",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/a6_5QX14NUu7LSY71YhE3g",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Puslapio numeris",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T13:15:05.6653197Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:15:34.6808686Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

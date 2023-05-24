@@ -1,0 +1,16 @@
+﻿{
+  "Id": "u03hjv3shU2m4v3OmRpOZQ",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/u03hjv3shU2m4v3OmRpOZQ",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Šriftas",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T13:27:51.2255449Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:28:56.3981648Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

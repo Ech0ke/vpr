@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Z24htsyq9Uyqi9FO8xKhSA",
+  "Reference": "CtuIerAZ6Eu-gpP3swNYXA/Z24htsyq9Uyqi9FO8xKhSA",
+  "ParentRef": "CtuIerAZ6Eu-gpP3swNYXA/38gEamQGF0y8zkl8iFH7Qg",
+  "Name": "Uždaryti poraštes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-24T13:19:37.1866231Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-24T13:20:00.7209808Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
